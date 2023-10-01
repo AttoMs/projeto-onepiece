@@ -1,0 +1,10 @@
+* {
+    margin:  0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Todo ul não terá o list-style, isto é, não terá as bolinhas dos ícones */
+ul {
+    list-style: none;  
+}
