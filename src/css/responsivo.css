@@ -45,14 +45,12 @@
     }
 
     .conteudo .logo {
-        
-        margin-bottom: 0px;
         width: 170px;
         height: 75px;
     }
 
     .conteudo {
-        top: -10%;
+        top: -25%;
     }
 
     .conteudo .descricao{
@@ -67,7 +65,7 @@
 
     .botoes {
         padding: 20px;
-        top: 0;
+        top: -10%;
     }
 
     .botoes .botao img {
